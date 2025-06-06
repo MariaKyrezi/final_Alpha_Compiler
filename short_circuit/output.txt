@@ -1,0 +1,16 @@
+
+total number constants: 0
+NUMBER CONSTANTS ARRAY
+
+total number strings: 0
+STRING CONSTANTS ARRAY
+
+total library functions: 0
+LIBRARY FUNCTIONS
+
+total user functions: 0
+USER FUNCTIONS
+No	id	addr	loc
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~TARGET CODE~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ins	opcode         result		arg1		arg2
