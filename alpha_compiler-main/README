@@ -1,0 +1,9 @@
+Konstantina Papafili csd4982
+Dimitris Gkorgkolis csd3930
+Maria Kyrezi csd4919
+
+Compile using: make
+Remove files: make clean
+Run using this command: ./calc <testfile>
+
+We have implemented everything.

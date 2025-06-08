@@ -1,0 +1,12 @@
+add_incomplete_jump - fixed new_jump = NULL; to new_jump->next = NULL;
+patch_incomplete_jumps  - curr had no value 
+                            updated to incomplete_jump* curr = ij_head;
+                        - else case added instructions[curr->instrNo].result = result;
+generate_FUNCSTART      - check line 473          
+generateInstr           - line 109 was for(unsigned i = 0; i <  ; i++)
+                            fixed to for(unsigned i = 0; i < nextQuad() ; i++)          
+                        - unsigned total = total  (?)
+---------
+Where are the instruction stored after emit?
+
+** Check jump quads and their arguments ( arg1, arg2 and result NULL) and make_operand and generate_relational functions

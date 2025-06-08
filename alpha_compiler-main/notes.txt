@@ -1,0 +1,3 @@
+*** taddress on symboltable entry and quad
+**** currprocessedquad()
+**** stin meriki apotimisi xreiazetai generate_not/or/and?
